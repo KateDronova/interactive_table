@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Выручка, руб",
+    "currentDay": "500 521",
+    "yesterday": "480 521",
+    "yesterdayPercent": "-4%",
+    "oneWeekAgo": "480 521"
+  },
+  {
+    "title": "Наличные",
+    "currentDay": "300 000",
+    "yesterday": "300 000",
+    "yesterdayPercent": "-3%",
+    "oneWeekAgo": "300 000"
+  },
+  {
+    "title": "Безналичный расчет",
+    "currentDay": "100 000",
+    "yesterday": "100 000",
+    "yesterdayPercent": "-3%",
+    "oneWeekAgo": "100 000"
+  },
+  {
+    "title": "Кредитные карты",
+    "currentDay": "100 521",
+    "yesterday": "100 521",
+    "yesterdayPercent": "-3%",
+    "oneWeekAgo": "100 521"
+  },
+  {
+    "title": "Средний чек, руб",
+    "currentDay": "1 300",
+    "yesterday": "900",
+    "yesterdayPercent": "+44%",
+    "oneWeekAgo": "900"
+  },
+  {
+    "title": "Средний гость, руб",
+    "currentDay": "1 200",
+    "yesterday": "800",
+    "yesterdayPercent": "+45%",
+    "oneWeekAgo": "800"
+  },
+  {
+    "title": "Удаления из чека (после оплаты), руб",
+    "currentDay": "1 000",
+    "yesterday": "1 100",
+    "yesterdayPercent": "-10%",
+    "oneWeekAgo": "900"
+  },
+  {
+    "title": "Удаления из чека (до оплаты), руб",
+    "currentDay": "1 300",
+    "yesterday": "1 300",
+    "yesterdayPercent": "-7%",
+    "oneWeekAgo": "900"
+  },
+  {
+    "title": "Количество чеков",
+    "currentDay": "34",
+    "yesterday": "36",
+    "yesterdayPercent": "-5%",
+    "oneWeekAgo": "34"
+  },
+  {
+    "title": "Количество гостей",
+    "currentDay": "34",
+    "yesterday": "36",
+    "yesterdayPercent": "-5%",
+    "oneWeekAgo": "32"
+  }
+]

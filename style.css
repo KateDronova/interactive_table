@@ -1,15 +1,57 @@
-.grey {
-  background-color: #ddd;
+.mainTable {
+  width: 800px;
+  height: 100%;
+  background-color: #eeeeee;
+  border-collapse: collapse;
+  text-align: end;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: auto;
 }
 
+.mainTable th {
+  text-align: center;
+  font-size: smaller;
+}
+.mainTable th,
+.mainTable td {
+  border: 2px solid #fff;
+  padding: 15px;
+}
+
+.mainTable td:first-child {
+  text-align: start;
+}
+
+.mainTable td:nth-child(2),
 .blue {
-  background-color: #b3dedd;
+  background-color: #d5ebf7;
 }
 
 .green {
-  background-color: green;
+  background: linear-gradient(#d2f2cd 0%, #b6edad 100%);
+}
+
+.greenColor {
+  color: green;
 }
 
 .red {
-  background-color: red;
+  background: linear-gradient(#f2cdcd 0%, #efb8b8 100%);
+}
+
+.redColor {
+  color: red;
+}
+
+.graphicsContainer {
+  background-color: #fff;
+  height: 300px;
+}
+
+.graphics{
+  height: 250px;
+  background-image: url(./assets/Line-Chart-Vector-PNG-File.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
 }
